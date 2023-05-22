@@ -1,14 +1,14 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Next 13 About',
+  title: 'Next 13 Team',
   description: '메타 데이터 디스크립션 소스보기에 존재',
 };
 
-const AboutPage = () => {
+const TeamPage = () => {
   return (
     <div>
-      <h1>About Next.js 13</h1>
+      <h1>Team Project</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis est
         debitis corrupti unde architecto, commodi nemo ducimus suscipit ea ad
@@ -23,4 +23,4 @@ const AboutPage = () => {
   );
 };
 
-export default AboutPage;
+export default TeamPage;
